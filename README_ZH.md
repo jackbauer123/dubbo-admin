@@ -13,6 +13,8 @@
 ### 页面截图
 
 ![index](https://raw.githubusercontent.com/apache/dubbo-admin/develop/doc/images/index.png)
+![index](https://github.com/jackbauer123/dubbo-admin/blob/master/doc/images/metricSearch.png)
+![index](https://github.com/jackbauer123/dubbo-admin/blob/master/doc/images/serviceMetric.png)
 
 ### 服务治理  
 服务治理的部分，按照Dubbo 2.7的格式进行配置，同时兼容Dubbo 2.6，详见[这里](https://github.com/apache/dubbo-admin/wiki/%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E5%85%BC%E5%AE%B9%E6%80%A7%E8%AF%B4%E6%98%8E)
